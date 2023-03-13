@@ -21,7 +21,7 @@
     display: flex;
 }
 
-.tecnologia{
+.tecnología{
     width: 100px;
     height: 48px;
     background-color: aliceblue;
@@ -34,19 +34,13 @@
     margin: 2px;
 
 }
-.biologia{
+.biología{
     width: 100px;
     height: 48px;
     background-color: aliceblue;
     margin: 2px;
 }
-.matematicas{
-    width: 100px;
-    height: 48px;
-    background-color: aliceblue;
-    margin: 2px;
-}
-.ingles{
+.matemáticas{
     width: 100px;
     height: 48px;
     background-color: aliceblue;
