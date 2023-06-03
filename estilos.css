@@ -1,0 +1,52 @@
+*{
+    padding: 0px
+    
+    margin
+    }
+    
+    
+    body{
+    
+    background-image:url("fondo.jpg");
+    
+    background-repeat: no-repeat ;
+    
+    }
+    
+    .Img {
+    
+    position: relative;
+    
+    width: 190px;
+    
+    height: 190px;
+    
+    border-radius: 10px;
+    
+   border-radius: no-repeat ;
+    
+    Left: 180px;
+    
+    background-image:url("medellin.jpeg);
+
+    )}
+
+
+    
+    
+    .contenedor{
+    
+    height: 230px;
+    
+    
+    }
+    
+    .texto{
+    
+   font-size: 40px;
+    
+    text-align: justify;
+    
+    color: ivory;
+    
+    }
