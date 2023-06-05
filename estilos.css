@@ -1,21 +1,30 @@
 *{
-    padding: 0px
+
+    padding: 0px;
     
-    margin
+    margin: 0px;
+    
     }
+    
+    
     
     
     body{
     
-    background-image:url("fondo.jpg");
+    background-image: url("fondo.jpg");
+
     
-    background-repeat: no-repeat ;
+    background-repeat: no-repeat;
     
     }
     
-    .Img {
+    
+    
+    .img{
     
     position: relative;
+    
+     
     
     width: 190px;
     
@@ -23,30 +32,35 @@
     
     border-radius: 10px;
     
-   border-radius: no-repeat ;
+    background-repeat: no-repeat;
     
-    Left: 180px;
+     
     
-    background-image:url("medellin.jpeg);
-
-    )}
-
-
+    left: 180px;
     
+    background-image: url("medellin.jpeg");
+    
+    }
     
     .contenedor{
     
+     
+    
     height: 230px;
     
+     
     
     }
     
     .texto{
     
-   font-size: 40px;
+    font-size: 40px;
     
     text-align: justify;
     
-    color: ivory;
+    color: brown;
+    
+     
     
     }
+    
