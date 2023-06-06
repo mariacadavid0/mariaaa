@@ -24,7 +24,7 @@ ul, ol{
     display: block;
 }
 .botones li a:hover {
-    background-color: rgb(235, 238, 238);
+    background-color: rgb(255, 255, 255);
 }
 .menu li ul{
 position: absolute;

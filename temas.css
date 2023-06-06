@@ -84,8 +84,8 @@ font-size: 30px;
 
 .imgggg {
 
-    width: 500px;
-    height: 300px;
+    width: 400px;
+    height: 200px;
 
 
 
@@ -131,8 +131,8 @@ font-size: 30px;
 .derecha{
     width: 20%;
     height: 8000px;
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
     border: 3px solid rgb(143, 0, 0); 
     font-size: 15px;
-    color: aliceblue;
+    color: rgb(0, 0, 0);
 }

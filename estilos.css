@@ -8,7 +8,6 @@
     
     
     
-    
     body{
     
     background-image: url("fondo.jpg");
@@ -17,7 +16,6 @@
     background-repeat: no-repeat;
     
     }
-    
     
     
     .img{
@@ -43,11 +41,11 @@
     }
     
     .contenedor{
-    
+
      
-    
+    color: aliceblue;
     height: 230px;
-    
+    text-align: justify;
      
     
     }
@@ -58,9 +56,66 @@
     
     text-align: justify;
     
-    color: brown;
+    color: rgb(255, 255, 255);
     
      
     
     }
+    
+    .scrollable {
+        width: 930px; 
+        height: 455px; 
+        overflow-y: scroll;
+      }
+      
+      .imgggg {
+
+        width: 400px;
+        height: 200px;
+    
+
+
+
+    }
+
+.imgg {
+
+width: 400px;
+height: 200px;
+
+
+}
+
+.imggg {
+
+width: 400px;
+height: 200px;
+
+
+
+}
+
+.imgggggg {
+
+width: 960px;
+height: 740px;
+
+
+
+
+}
+
+
+
+
+    .img {
+
+width: 400px;
+
+height: 200px;
+
+left: 0px;
+
+    }
+    
     
