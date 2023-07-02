@@ -1,0 +1,121 @@
+*{
+
+    padding: 0px;
+    
+    margin: 0px;
+    
+    }
+    
+    
+    
+    body{
+    
+    background-image: url("fondo.jpg");
+
+    
+    background-repeat: no-repeat;
+    
+    }
+    
+    
+    .img{
+    
+    position: relative;
+    
+     
+    
+    width: 190px;
+    
+    height: 190px;
+    
+    border-radius: 10px;
+    
+    background-repeat: no-repeat;
+    
+     
+    
+    left: 180px;
+    
+    background-image: url("medellin.jpeg");
+    
+    }
+    
+    .contenedor{
+
+     
+    color: aliceblue;
+    height: 230px;
+    text-align: justify;
+     
+    
+    }
+    
+    .texto{
+    
+    font-size: 40px;
+    
+    text-align: justify;
+    
+    color: rgb(255, 255, 255);
+    
+     
+    
+    }
+    
+    .scrollable {
+        width: 930px; 
+        height: 455px; 
+        overflow-y: scroll;
+      }
+      
+      .imgggg {
+
+        width: 400px;
+        height: 200px;
+    
+
+
+
+    }
+
+.imgg {
+
+width: 400px;
+height: 200px;
+
+
+}
+
+.imggg {
+
+width: 400px;
+height: 200px;
+
+
+
+}
+
+.imgggggg {
+
+width: 960px;
+height: 740px;
+
+
+
+
+}
+
+
+
+
+    .img {
+
+width: 400px;
+
+height: 200px;
+
+left: 0px;
+
+    }
+    
+    
