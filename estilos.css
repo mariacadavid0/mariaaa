@@ -224,3 +224,68 @@ width: 950px;
 
 }
 
+.textotecno1{
+        
+    text-align: justify;
+    
+    color: rgb(0, 0, 0);
+    
+    font-size: 20px;
+    
+    font-style: oblique;
+    
+    }
+
+
+    .img1{
+        
+         
+        
+        background-repeat: no-repeat;
+        
+        float:left;
+        
+        height: 200px;
+        
+        width: 260px;
+        
+        margin-left: 5px;
+        
+        margin-right:5px;
+        
+        background-image: url("fiu.jpg");
+        
+        }
+
+        .textotecno2{
+        
+            text-align: justify;
+            
+            color: rgb(0, 0, 0);
+            
+            font-size: 20px;
+            
+            font-style: oblique;
+            
+            }
+        
+        
+            .img2{
+                
+                 
+                
+                background-repeat: no-repeat;
+                
+                float:left;
+                
+                height: 200px;
+                
+                width: 260px;
+                
+                margin-left: 5px;
+                
+                margin-right:5px;
+                
+                background-image: url("fiu.jpg");
+                
+                }
